@@ -36,8 +36,8 @@ export default function Contact() {
             </div>
             <div className={styles.infoItem}>
               <strong>LinkedIn:</strong>
-              <a href="https://linkedin.com/in/janedoe" target="_blank" rel="noopener noreferrer">
-                linkedin.com/in/janedoe
+              <a href="https://www.linkedin.com/in/swapnil-jadhav-738728258" target="_blank" rel="noopener noreferrer">
+                linkedin.com/in/swapnil-jadhav
               </a>
             </div>
             <div className={styles.infoItem}>
