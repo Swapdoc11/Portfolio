@@ -1,0 +1,28 @@
+.footer {
+  padding: 2rem;
+  background-color: #f8f9fa;
+  text-align: center;
+  margin-top: auto;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.social a {
+  color: #555;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social a:hover {
+  color: #007bff;
+}
+
+.copyright {
+  color: #666;
+  font-size: 0.9rem;
+} 
