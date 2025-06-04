@@ -57,7 +57,7 @@ export default function About() {
         <section className={styles.section}>
           <h1 className={styles.title}>About Me</h1>
           <div className={styles.downloadResume}>
-            <a href="/resume.pdf" download className={styles.resumeButton}>
+            <a href="/Resume.pdf" download className={styles.resumeButton}>
               Download Resume
             </a>
           </div>
