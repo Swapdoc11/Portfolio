@@ -10,7 +10,7 @@ export default function Projects() {
       title: 'Portfolio Website',
       description: 'Personal site built with Next.js and hosted on Vercel. Features a modern, responsive design with custom animations and components.',
       image: '/images/project1.png',
-      link: '#',
+      link: 'https://portfolio-git-master-swapdoc11s-projects.vercel.app/',
     },
     {
       title: 'Food Delivery App',
